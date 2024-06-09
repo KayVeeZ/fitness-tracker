@@ -114,12 +114,9 @@ The application is intended to provide users with insights into their fitness ha
 ![Dashboard](static/images/dashboard.png)
 *Description*: The user dashboard displays logged workouts and water intake. Users can also add new entries here.
 
-1. **Register**: Create a new user account.
-2. **Log In**: Access your dashboard using your credentials.
-3. **Log Workouts**: Enter the type and duration of your workouts.
-4. **Log Water Intake**: Record your daily water intake.
-5. **View Progress**: Check your logged data visualized through charts.
-
+1. **Log Workouts**: Enter the type and duration of your workouts.
+2. **Log Water Intake**: Record your daily water intake.
+3. **View Progress**: Check your logged data visualized through charts.
 
 ## Design Choices
 
